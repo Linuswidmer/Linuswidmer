@@ -1,0 +1,43 @@
+<h1 align="center">Hi there 👋, I'm Linus</h1>
+
+**Software engineer with an academic background in psychology and statistics. Currently student at [42 Berlin](https://42berlin.de/)**
+
+- 🔭 **I’m currently working on [transcendence]():**  
+*Transcendence description*
+
+- 🌱 **I’m currently learning ... **  
+*My next coding language goals*
+
+<!--
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+
+## Tech stack:
+
+
+
+## 42 School Projects
+- [WebServ](https://github.com/Linuswidmer/42_webserv) *HTTP compliant web server in C++*
+- [Inception](https://github.com/Linuswidmer/42_inception) *...*
+
+
+- [WebServer](https://github.com/sidechained/webServ) *HTTP web server in C++*
+- [CPP Modules](https://github.com/mvomiero/42_CPP) *C++*
+- [Inception](https://github.com/mvomiero/42_inception) *Creation of a LEMP (Linux, Nginx, MySQL, PHP) stack using Docker*
+- [miniRT](https://github.com/mvomiero/42_miniRT) *Ray tracing rendering project*
+- [Philosophers](https://github.com/mvomiero/42_Philosophers) *Multithreading in C to solve the dining philosophers problem*
+- [Minishell](https://github.com/flo-12/minishell) *Recoding a mini version of bash*
+- [fract-ol](https://github.com/mvomiero/42_fract-ol) *2D programming and the psychedelic universe of fractals*
+- [push-swap](https://github.com/mvomiero/42_push_swap) *Sorting data on a stack, with a limited set of instructions, and the smallest number of moves.*
+- [Libft](https://github.com/mvomiero/42_libft) *Recoding part of the C standard library*
