@@ -8,17 +8,17 @@ Welcome to my GitHub profile. I'm finishing my degree in software development at
 
 ### [WebServer](https://github.com/Linuswidmer/42_webserv)
 **Description:** 
-	- Collaborative effort to build a performative web server in C++.	
-	- It includes a complete implementation of the HTTP 1.1 standard with GET, POST & DELETE methods
+- Collaborative effort to build a performative web server in C++.	
+- It includes a complete implementation of the HTTP 1.1 standard with GET, POST & DELETE methods
 
 **Key Features:**  
-	- I/O multiplexing for HTTP requests and responses. 
-	- CGI support for PHP and Python 
-	- Customizable configurations for server behavior.  
+- I/O multiplexing for HTTP requests and responses. 
+- CGI support for PHP and Python 
+- Customizable configurations for server behavior.  
 
 **Technologies and Skills:**  
-	- C++ programming language. 
-	- In-depth understanding and implementation of the HTTP standard. 
+- C++ programming language. 
+- In-depth understanding and implementation of the HTTP standard. 
 
 
 ## 📚 Learning Journey
