@@ -8,7 +8,7 @@ Welcome to my GitHub profile. I'm finishing my degree in software development at
 
 ## 🌟 Most recent project(s)...
 
-#### 🏄[WebServer](https://github.com/Linuswidmer/42_webserv)
+🏄[WebServer](https://github.com/Linuswidmer/42_webserv)
 ... building a HTTP 1.1 compliant webserver in C++
 - With the aim of learning and applying the principles of **object oriented programming in C++** we collaborated on this project of the 42 Curriculum.
 - Core features included implementing **GET, POST & DELETE** methods, as well as providing **custommication for the server** and building a working **CGI to PHP and Python**.
@@ -18,10 +18,10 @@ Welcome to my GitHub profile. I'm finishing my degree in software development at
 
 
 ## 🚀 Next up ...
-#### ☕[TodoApplication](https://github.com/Linuswidmer/java_todo_app)
+#### ☕ [TodoApplication](https://github.com/Linuswidmer/java_todo_app)
 ... teaching myself **how to JAVA!**
 - Building a simple TO-DO list application that is connected to a small database 
 - My goal is to refine my understanding of OOP, as well as diving into a new language and new frameworks
 
-#### [TRANSCENDENCE]()
+#### ☀️ [Transcendence]()
 ... the final project of the 42 curriculum!
