@@ -3,31 +3,27 @@
 [![](https://visitcount.itsvg.in/api?id=Linuswidmer&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 Welcome to my GitHub profile. I'm finishing my degree in software development at [42 Berlin] (). I have a passion for ...
+.... Data analysis and object oriented programming ....
 
-## 🌟 Featured Repositories  
+## 📚 Learning Track
+### Tech Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Linuswidmer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### [WebServer](https://github.com/Linuswidmer/42_webserv)
-**Description:** 
-- Collaborative effort to build a performative web server in C++.	
-- It includes a complete implementation of the HTTP 1.1 standard with GET, POST & DELETE methods
+### 🌟 Most recent project(s)...
 
-**Key Features:**  
-- I/O multiplexing for HTTP requests and responses. 
-- CGI support for PHP and Python 
-- Customizable configurations for server behavior.  
-
-**Technologies and Skills:**  
-- C++ programming language. 
-- In-depth understanding and implementation of the HTTP standard. 
+#### [WebServer](https://github.com/Linuswidmer/42_webserv)
+... building a HTTP 1.1 compliant webserver in C++
+- With the aim of learning and applying the principles of **object oriented programming in C++** we collaborated on this project of the 42 Curriculum.
+- Core features included implementing **GET, POST & DELETE** methods, as well as providing **custommication for the server** and building a working **CGI to PHP and Python**.
+#### [Inception](https://github.com/Linuswidmer/42_inception)
+... deploying a containerized NGINX, Wordpress, PHP and mariaDB apllication that can ship anywhere
+- Learning the awesomeness (and tediousness) of building applications in Docker and how it can help software developers.
 
 
-## 📚 Learning Journey
+### 🚀 Next up ...
+#### 
+... teaching myself **how to JAVA!**
+- Building a simple TO-DO list application that is connected to a small database 
+- My goal is to refine my understanding of OOP, as well as diving into a new language and new frameworks
 
-### So far ...
-
-|  |  |
-| --- | --- |
-| ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Linuswidmer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
-### ... coming next:
-- Working on transcendence, the final project of the 42 curriculum
-- ...
+Take a look at my other projects and feel free to connect!
