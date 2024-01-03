@@ -1,7 +1,5 @@
 <h1 align="center">Hello 👋, I'm Linus</h1>
 
-[![](https://visitcount.itsvg.in/api?id=Linuswidmer&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
-
 Welcome to my GitHub profile. I'm finishing my degree in software development at [42 Berlin] (). I have a passion for ...
 .... Data analysis and object oriented programming ....
 
