@@ -17,16 +17,18 @@ Coming from a background in Humanities, my passion for coding and analytical thi
 
 ## 🚀 Next up...
 
+- ☀️ **[Transcendence](https://github.com/Linuswidmer/42_transcendence)**
+  - The final project of the 42 curriculum!
+  - Developing a full stack web application with Javascript and Django.
+  - Remotely play against others the classic Pong game
+
 - ☕ **[Todo List Application](https://github.com/Linuswidmer/java_todo_app)**
   - Teaching myself how to JAVA!
   - Building a simple Todo list application connected to a small database
   - Refining my understanding of OOP and diving into a new language and new frameworks
 
-- ☀️ **Transcendence**
-  - The final project of the 42 curriculum!
-
 
 ## 📚 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white) ![R](https://img.shields.io/badge/RStudio-grey?style=for-the-badge&logo=R) 
 #### **Learning**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Javascript](https://shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Javascript](https://shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
