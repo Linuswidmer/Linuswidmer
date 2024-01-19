@@ -18,9 +18,8 @@ Coming from a background in Humanities, my passion for coding and analytical thi
 ## 🚀 Next up...
 
 - ☀️ **[Transcendence](https://github.com/Linuswidmer/42_transcendence)**
-  - The final project of the 42 curriculum!
-  - Developing a full stack web application with Javascript and Django.
-  - Remotely play against others the classic Pong game
+  - The final project of the 42 curriculum! Host a web applicatio that lets you remotely play against others the classic Pong game
+  - Developing the backend using Python/Django and leveraging its functionalities with channels, RabbitMQ and Celery
 
 - ☕ **[Todo List Application](https://github.com/Linuswidmer/java_todo_app)**
   - Teaching myself how to JAVA!
