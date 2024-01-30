@@ -1,8 +1,9 @@
 
 # Hello 👋, I'm Linus
-Student of Software Development at [42 Berlin](https://42berlin.de/) — part of a global education movement that aims to revolutionize (tech) education.
 
-Coming from a background in Humanities, my passion for coding and analytical thinking reignited in Statistics and data analysis using R/RStudio. The curriculum at 42 gave me the chance to take a deep dive into the realm of software development.
+I'm a software engineer with an academic background in psychology. The curriculum at [42 Berlin](https://42berlin.de/) fully ignited my passion for coding and analytical problem solving and ever since I've been striving to learn more 🚀.
+I seek to combine the best of both of my worlds and bring my expertise of collaboration and working with people into the realm of software development to create a brighter tomorrow (and today ☀️).
+Have a look at my previous and upcoming projects!
 
 ## 🌟 Most recent projects...
 
