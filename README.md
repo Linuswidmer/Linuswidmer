@@ -1,11 +1,9 @@
 
 # Hello 👋, I'm Linus
 
-I'm a software engineer with an academic background in psychology. 
-
+I'm a software engineer with an academic background in psychology. \
 The curriculum at [42 Berlin](https://42berlin.de/) fully ignited my passion for coding and analytical problem solving and ever since I've been striving to learn more 🚀.
-I seek to combine the best of both of my worlds and bring my expertise of collaboration and working with people into the realm of software development to create a brighter tomorrow (and today ☀️).
-
+I seek to combine the best of both of my worlds and bring my expertise of collaboration and working with people into the realm of software development to create a brighter tomorrow (and today ☀️). \
 Have a look at my previous and upcoming projects!
 
 ## 🌟 Most recent projects...
